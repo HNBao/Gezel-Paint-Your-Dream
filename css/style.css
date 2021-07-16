@@ -106,7 +106,7 @@ main{
 	height:250px;
 	background-image: url("../img/banner1.jpg");
 	background-size: cover;
-	background-position: center -0px;
+	background-position: center;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: flex-end;
